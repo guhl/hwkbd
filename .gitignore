@@ -1,0 +1,7 @@
+installroot/**
+RPMS/**
+**/*.o
+hwkbd
+Makefile
+moc*
+documentation.list
